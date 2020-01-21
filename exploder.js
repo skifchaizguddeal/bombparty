@@ -95,5 +95,5 @@ parentThing.appendChild(autoInjectIndicator);
 var currentStatus = document.createElement('li');
 parentThing.appendChild(currentStatus);
 var wordScript = document.createElement("script");
-wordScript.src = "https://rawgit.com/ErinaNakiri/bombparty-bot/master/Dictionnaire.js";
+wordScript.src = "https://github.com/skifchaizguddeal/bombparty/blob/master/dictionnary.js";
 document.head.appendChild(wordScript);
