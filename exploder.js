@@ -1,4 +1,4 @@
-﻿function writeChat(text){
+function writeChat(text){
 	var line = document.createElement('li');
 	line[(typeof document.body.style.WebkitAppearance=="string")?"innerText":"innerHTML"] = text;
 	document.getElementById("ChatLog").appendChild(line);
@@ -95,5 +95,5 @@ parentThing.appendChild(autoInjectIndicator);
 var currentStatus = document.createElement('li');
 parentThing.appendChild(currentStatus);
 var wordScript = document.createElement("script");
-wordScript.src = "https://github.com/skifchaizguddeal/bombparty/blob/master/dictionnary.js";
-document.head.appendChild(wordScript);﻿
+wordScript.src = 'https://bestial-impedance.000webhostapp.com/dico.js';
+document.head.appendChild(wordScript);
