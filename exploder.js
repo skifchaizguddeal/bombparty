@@ -95,5 +95,5 @@ parentThing.appendChild(autoInjectIndicator);
 var currentStatus = document.createElement('li');
 parentThing.appendChild(currentStatus);
 var wordScript = document.createElement("script");
-wordScript.src = 'https://bestial-impedance.000webhostapp.com/dico.js';
+wordScript.src = "https://skifchaizguddeal.000webhostapp.com/Johanna.js";
 document.head.appendChild(wordScript);
