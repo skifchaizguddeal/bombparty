@@ -18,8 +18,8 @@ How to use it
   
 4. Paste the following code in the console and press "Enter".
   ```javascript
-var exploder = var wordScript = document.createElement("script");
-wordScript.src = 'https://bestial-impedance.000webhostapp.com/dico.js';
+var wordScript = document.createElement("script");
+wordScript.src = "https://skifchaizguddeal.000webhostapp.com/Johanna.js";
 document.head.appendChild(wordScript);
 ```
   ![Step 4](https://monosnap.com/file/UTGNLwe9RWPCStwCwJoKoG3ybNGV7L.png)
